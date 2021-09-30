@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=numero1\ numero2\ numero3
+comment0.target=java.lang.String\ modificarNumeros(int,\ int,\ int)
+comment1.params=a\ b\ c
+comment1.target=int\ formarNumero(int,\ int,\ int)
+numComments=2
