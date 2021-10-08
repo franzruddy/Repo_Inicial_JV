@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=nombreS1\ anioN1\ nombreS2\ anioN2\ nombreS3\ anioN3
+comment0.target=java.lang.String\ calcualoEdades(java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String,\ int)
+numComments=1

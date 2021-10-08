@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=numero1\ numero2
+comment0.target=java.lang.String\ comparar_multiplos(int,\ int)
+numComments=1
